@@ -37,6 +37,8 @@ alias la="ls -la"
 alias ll="ls -l"
 alias k="kubectl"
 alias ls="colorls"
+alias tn="tmux new -s"
+alias ta="tmux attach -t"
 
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 
